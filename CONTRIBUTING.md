@@ -4,6 +4,10 @@ A document with pragmatic standards and best-practices used by Nation3 developer
 
 ## Pull Requests
 
+If the pull request is part of a retroactive [Dework](https://app.dework.xyz/nation3) session, remember to include a link to a Dework task in the description:
+
+> ![Screen Shot 2022-08-04 at 1 18 45 PM](https://user-images.githubusercontent.com/95955389/182770285-5355cd10-ebbd-4acf-87a8-0c2d1213fc42.png)
+
 After creating a pull request, assign one of the Nation3 [teams](https://github.com/orgs/nation3/teams) as reviewers.
 
 When you have 2 approved reviews, merge the pull request.
