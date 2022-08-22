@@ -12,11 +12,23 @@ After creating a pull request, assign one of the Nation3 [teams](https://github.
 
 When you have 2 approved reviews, merge the pull request.
 
-## Test Network
-We use Goerli for our testnet deployments. You can get some testnet ETH from the following faucets:
+## Testnet Tokens
+
+### Goerli Eth
+
+We use Goreli for our testnet deployments. You can get some testnet `ETH` from the following faucets:
+
 - [Goerli PoW Faucet](https://goerli-faucet.pk910.de/)
-- [Alchemy Faucet](https://goerlifaucet.com/): 
+- [Alchemy Faucet](https://goerlifaucet.com/):
 - [https://faucet.paradigm.xyz/](https://faucet.paradigm.xyz/)
+
+### $NATION
+
+`$NATION` tokens can be purchased from the Goreli [Balancer Pool](https://goerli.balancer.fi/#/pool/0x6f57329d43f3de9ff39d4424576db920b55060b30002000000000000000000d7) or by asking one of the members of the developer guild in [discord](https://discord.gg/zYsf6edHBf)
+
+### $veNATION
+
+Once you have 2 `$NATION` tokens, head over to the staking page in the [Citizen App](https://app.nation3.org/lock)
 
 ## Code Syntax/Formatting
 
