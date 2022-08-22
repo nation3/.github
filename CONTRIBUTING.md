@@ -13,7 +13,7 @@ After creating a pull request, assign one of the Nation3 [teams](https://github.
 When you have 2 approved reviews, merge the pull request.
 
 ## Test Network
-We use Goreli for our testnet deployemnts deployments. You can get some testnet ETH from the following faucets:
+We use Goerli for our testnet deployments. You can get some testnet ETH from the following faucets:
 - [Goerli PoW Faucet](https://goerli-faucet.pk910.de/)
 - [Alchemy Faucet](https://goerlifaucet.com/): 
 - [https://faucet.paradigm.xyz/](https://faucet.paradigm.xyz/)
