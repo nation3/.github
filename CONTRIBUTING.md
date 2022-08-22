@@ -24,7 +24,7 @@ We use Goerli for our testnet deployments. You can get some testnet `ETH` from t
 
 ### $NATION
 
-`$NATION` tokens can be purchased from the Goreli [Balancer Pool](https://goerli.balancer.fi/#/pool/0x6f57329d43f3de9ff39d4424576db920b55060b30002000000000000000000d7) or by asking one of the members of the developer guild in [discord](https://discord.gg/zYsf6edHBf)
+`$NATION` tokens can be purchased from the Goerli [Balancer Pool](https://goerli.balancer.fi/#/pool/0x6f57329d43f3de9ff39d4424576db920b55060b30002000000000000000000d7) or by asking one of the members of the developer guild in [discord](https://discord.gg/zYsf6edHBf)
 
 ### $veNATION
 
