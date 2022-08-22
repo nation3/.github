@@ -16,7 +16,7 @@ When you have 2 approved reviews, merge the pull request.
 
 ### Goerli Eth
 
-We use Goreli for our testnet deployments. You can get some testnet `ETH` from the following faucets:
+We use Goerli for our testnet deployments. You can get some testnet `ETH` from the following faucets:
 
 - [Goerli PoW Faucet](https://goerli-faucet.pk910.de/)
 - [Alchemy Faucet](https://goerlifaucet.com/):
