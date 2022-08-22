@@ -28,7 +28,9 @@ We use Goerli for our testnet deployments. You can get some testnet `ETH` from t
 
 ### $veNATION
 
-Once you have 2 `$NATION` tokens, head over to the staking page in the [Citizen App](https://app.nation3.org/lock)
+Once you hold `$NATION` tokens, head over to the staking page in the [Citizen App](https://app.nation3.org/lock).
+
+Note that you will need to lock _more than_ 2 `$NATION` to get 2 `$veNATION` (since your `$veNATION` balance decreases over time.)
 
 ## Code Syntax/Formatting
 
