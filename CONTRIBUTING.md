@@ -4,13 +4,23 @@ A document with pragmatic standards and best-practices used by Nation3 developer
 
 ## Pull Requests
 
-If the pull request is part of a retroactive [Dework](https://app.dework.xyz/nation3) session, remember to include a link to a Dework task in the description:
+### Pull Request Philosophy
+
+Pull requests should always be focused. For example, a pull request could add a feature, fix a bug, or refactor code; **but not a mixture**. Please also avoid super pull requests which attempt to do too much, are overly large, or overly complex as this makes review difficult.
+
+For more details, read [bitcoin/CONTRIBUTING.md](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md#pull-request-philosophy).
+
+### Dework Integration
+
+If the pull request is related to a [Dework](https://app.dework.xyz/nation3) task, remember to include a link to a Dework task in the description:
 
 > ![Screen Shot 2022-08-04 at 1 18 45 PM](https://user-images.githubusercontent.com/95955389/182770285-5355cd10-ebbd-4acf-87a8-0c2d1213fc42.png)
 
+### Pull Request Review
+
 After creating a pull request, assign one of the Nation3 [teams](https://github.com/orgs/nation3/teams) as reviewers.
 
-When you have 2 approved reviews, merge the pull request.
+When you have at least 2 approved reviews, merge the pull request.
 
 ## Testnet Tokens
 
