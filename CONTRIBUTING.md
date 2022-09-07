@@ -6,15 +6,21 @@ A document with pragmatic standards and best-practices used by Nation3 developer
 
 ### Pull Request Philosophy
 
-Pull requests should always be focused. For example, a pull request could add a feature, fix a bug, or refactor code; **but not a mixture**. Please also avoid super pull requests which attempt to do too much, are overly large, or overly complex as this makes review difficult.
-
-For more details, read [bitcoin/CONTRIBUTING.md](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md#pull-request-philosophy).
+Commits in a pull request should always be focused. For example, a commit could add a feature, fix a bug, or refactor code; **but not a mixture**. Please also avoid super commits which attempt to do too much, are overly large, or overly complex as this makes review difficult.
 
 ### Dework Integration
 
 If the pull request is related to a [Dework](https://app.dework.xyz/nation3) task, remember to include a link to a Dework task in the description:
 
-> ![Screen Shot 2022-08-04 at 1 18 45 PM](https://user-images.githubusercontent.com/95955389/182770285-5355cd10-ebbd-4acf-87a8-0c2d1213fc42.png)
+> ![dework](https://user-images.githubusercontent.com/95955389/188814985-4208bc7a-a8aa-4f61-a31e-2c6cb7c3249f.png)
+
+### Test Checklist
+
+Before requesting a review of your pull request, make sure that all the status checks are passing:
+
+> ![status_checks](https://user-images.githubusercontent.com/95955389/188814554-191fe7c0-d99a-4b9c-b30b-9e6a5b04b5af.png)
+
+Also test that that your code changes work on both Goerli and Mainnet.
 
 ### Pull Request Review
 
