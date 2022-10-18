@@ -2,6 +2,10 @@
 
 A document with pragmatic standards and best-practices used by Nation3 developers.
 
+## First-Time Contributor?
+
+If you are new to Nation3, see https://nation3.org/join for information on how to join the community 💚
+
 ## Pull Requests
 
 ### Pull Request Philosophy
