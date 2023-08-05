@@ -4,7 +4,7 @@ A document with pragmatic standards and best-practices used by Nation3 developer
 
 ## First-Time Contributor?
 
-If you are new to Nation3, see https://nation3.org/join for information on how to join the community 💚
+If you are new to Nation3, see https://www.nation3.org/community for information on how to join the community 💚
 
 ## Pull Requests
 
