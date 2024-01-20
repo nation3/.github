@@ -38,9 +38,7 @@ When you have at least 2 approved reviews, merge the pull request.
 
 We use Goerli for our testnet deployments. You can get some testnet `ETH` from the following faucets:
 
-- [Goerli PoW Faucet](https://goerli-faucet.pk910.de/)
-- [Alchemy Faucet](https://goerlifaucet.com/)
-- [https://faucet.paradigm.xyz/](https://faucet.paradigm.xyz/)
+- [QuickNode - Ethereum Goerli Faucet](https://faucet.quicknode.com/ethereum/goerli)
 
 ### $NATION
 
