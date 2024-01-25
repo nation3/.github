@@ -44,6 +44,18 @@ We use Goerli for our testnet deployments. You can get some testnet `ETH` from t
 
 `$NATION` tokens can be purchased from the Goerli Balancer Pool at https://goerli.balancer.fi/#/trade/ether/0x333A4823466879eeF910A04D473505da62142069 or by asking one of the members of the developer guild in [Discord](https://discord.gg/nation3)
 
+## Testnet Tokens
+
+### Sepolia Eth
+
+We use Sepolia for our testnet deployments. You can get some testnet `ETH` from the following faucets:
+
+- [QuickNode - Ethereum Sepolia Faucet](https://faucet.quicknode.com/ethereum/sepolia)
+
+### $NATION
+
+`$NATION` tokens can be purchased from the Sepolia Balancer Pool at https://app.balancer.fi/#/sepolia/pool/0x4228576722a101b2a3929f191990f4d76181976a000200000000000000000079 or by asking one of the members of the developer guild in [Discord](https://discord.gg/nation3)
+
 ### $veNATION
 
 Once you hold `$NATION` tokens, head over to the staking page in the [Citizen App](https://app.nation3.org/lock).
