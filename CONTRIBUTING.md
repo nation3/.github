@@ -54,7 +54,7 @@ We use Sepolia for our testnet deployments. You can get some testnet `ETH` from 
 
 ### $NATION
 
-`$NATION` tokens can be purchased from the Sepolia Balancer Pool at https://app.balancer.fi/#/sepolia/pool/0x4228576722a101b2a3929f191990f4d76181976a000200000000000000000079 or by asking one of the members of the developer guild in [Discord](https://discord.gg/nation3)
+`$NATION` tokens can be purchased from the Sepolia Balancer Pool at https://app.balancer.fi/#/sepolia/swap/ether/0x23Ca3002706b71a440860E3cf8ff64679A00C9d7 or by asking one of the members of the developer guild in [Discord](https://discord.gg/nation3)
 
 ### $veNATION
 
