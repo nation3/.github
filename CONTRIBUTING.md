@@ -41,7 +41,7 @@ When you have at least 1 approved review, merge the pull request.
 
 ## Testnet Development
 
-### Sepolia Eth
+### Sepolia `ETH`
 
 We use Sepolia for our testnet deployments. You can get some testnet `ETH` from the [QuickNode - Ethereum Sepolia Faucet](https://faucet.quicknode.com/ethereum/sepolia).
 
