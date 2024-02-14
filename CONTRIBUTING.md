@@ -32,6 +32,10 @@ After creating a pull request, assign one of the Nation3 [teams](https://github.
 
 When you have at least 2 approved reviews, merge the pull request.
 
+## Sepolia Testnet Development
+
+See https://app.clarity.so/nation3-public/docs/9dcef8f6-ecd8-45f8-ab46-22d5f0fda30d
+
 ## Testnet Tokens
 
 ### Goerli Eth
