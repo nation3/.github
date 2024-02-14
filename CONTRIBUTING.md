@@ -24,51 +24,37 @@ Before requesting a review of your pull request, make sure that all the status c
 
 > ![status_checks](https://user-images.githubusercontent.com/95955389/188814554-191fe7c0-d99a-4b9c-b30b-9e6a5b04b5af.png)
 
-Also test that that your code changes work on both Goerli and Mainnet.
+Also test that that your code changes work on both Sepolia and Mainnet.
+
+### Code Syntax/Formatting
+
+#### TypeScript/JavaScript
+
+We use [ESLint](https://eslint.org) as a linter, and [Prettier](https://prettier.io) to automatically format code so it adheres to our coding style.
+Default config files for both can be seen [here](https://github.com/nation3/app/blob/main/ui/.eslintrc) and [here](https://github.com/nation3/app/blob/main/ui/.prettierrc.json). It is recommended to use Prettier inside your development environment to format your code with the right coding style on the fly.a
 
 ### Pull Request Review
 
 After creating a pull request, assign one of the Nation3 [teams](https://github.com/orgs/nation3/teams) as reviewers.
 
-When you have at least 2 approved reviews, merge the pull request.
+When you have at least 1 approved review, merge the pull request.
 
-## Sepolia Testnet Development
-
-See https://app.clarity.so/nation3-public/docs/9dcef8f6-ecd8-45f8-ab46-22d5f0fda30d
-
-## Testnet Tokens
-
-### Goerli Eth
-
-We use Goerli for our testnet deployments. You can get some testnet `ETH` from the following faucets:
-
-- [QuickNode - Ethereum Goerli Faucet](https://faucet.quicknode.com/ethereum/goerli)
-
-### $NATION
-
-`$NATION` tokens can be purchased from the Goerli Balancer Pool at https://goerli.balancer.fi/#/trade/ether/0x333A4823466879eeF910A04D473505da62142069 or by asking one of the members of the developer guild in [Discord](https://discord.gg/nation3)
-
-## Testnet Tokens
+## Testnet Development
 
 ### Sepolia Eth
 
-We use Sepolia for our testnet deployments. You can get some testnet `ETH` from the following faucets:
+We use Sepolia for our testnet deployments. You can get some testnet `ETH` from the [QuickNode - Ethereum Sepolia Faucet](https://faucet.quicknode.com/ethereum/sepolia).
 
-- [QuickNode - Ethereum Sepolia Faucet](https://faucet.quicknode.com/ethereum/sepolia)
+### Sepolia `$NATION`
 
-### $NATION
+`$NATION` tokens can be purchased from the Sepolia Balancer Pool at https://app.balancer.fi/#/sepolia/swap/ether/0x23Ca3002706b71a440860E3cf8ff64679A00C9d7
 
-`$NATION` tokens can be purchased from the Sepolia Balancer Pool at https://app.balancer.fi/#/sepolia/swap/ether/0x23Ca3002706b71a440860E3cf8ff64679A00C9d7 or by asking one of the members of the developer guild in [Discord](https://discord.gg/nation3)
-
-### $veNATION
+### Sepolia `$veNATION`
 
 Once you hold `$NATION` tokens, head over to the staking page in the [Citizen App](https://app.nation3.org/lock).
 
 Note that you will need to lock _more than_ 2 `$NATION` to get 2 `$veNATION` (since your `$veNATION` balance decreases over time.)
 
-## Code Syntax/Formatting
+### Sepolia Contract Deployments
 
-### TypeScript/JavaScript
-
-We use [ESLint](https://eslint.org) as a linter, and [Prettier](https://prettier.io) to automatically format code so it adheres to our coding style.
-Default config files for both can be seen [here](https://github.com/nation3/app/blob/main/ui/.eslintrc) and [here](https://github.com/nation3/app/blob/main/ui/.prettierrc.json). It is recommended to use Prettier inside your development environment to format your code with the right coding style on the fly.
+See https://app.clarity.so/nation3-public/docs/9dcef8f6-ecd8-45f8-ab46-22d5f0fda30d
