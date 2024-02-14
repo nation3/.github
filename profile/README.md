@@ -1,1 +1,3 @@
-[![github-readme](https://user-images.githubusercontent.com/95955389/175488905-752e86f8-044b-4630-83e8-4e24262148f6.png)](https://nation3.org/manifesto)
+[**Nation3 Manifesto**](https://nation3.org/manifesto)
+
+> ![](https://github.com/nation3/.github/assets/95955389/06482891-8b63-4e47-a2a6-96fa1af505bb)
