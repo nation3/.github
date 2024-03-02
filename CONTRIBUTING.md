@@ -12,11 +12,9 @@ If you are new to Nation3, see https://nation3.org/join for information on how t
 
 Commits in a pull request should always be focused. For example, a commit could add a feature, fix a bug, or refactor code; **but not a mixture**. Please also avoid super commits which attempt to do too much, are overly large, or overly complex as this makes review difficult.
 
-### Dework Integration
+### GitHub Issues
 
-If the pull request is related to a [Dework](https://app.dework.xyz/nation3) task, remember to include a link to a Dework task in the description:
-
-> ![dework](https://user-images.githubusercontent.com/95955389/188814985-4208bc7a-a8aa-4f61-a31e-2c6cb7c3249f.png)
+If the pull request is related to a GitHub issue, remember to include a reference to the GitHub issue in the description. Example: `closes #123`
 
 ### Test Checklist
 
@@ -53,7 +51,7 @@ We use Sepolia for our testnet deployments. You can get some testnet `ETH` from 
 
 Once you hold `$NATION` tokens, head over to the staking page: https://app-sepolia.nation3.org/lock
 
-| ⚠️ Note that you will need to lock _more than_ 2 `$NATION` to get 2 `$veNATION` (since your `$veNATION` balance decreases over time.) |
+| ⚠️ Note that you will need to lock _more than_ 2 `$NATION` to get 2 `$veNATION` (since your `$veNATION` balance decreases over time). |
 | --- |
 
 ### Sepolia Contract Deployments
