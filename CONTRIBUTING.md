@@ -51,7 +51,7 @@ We use Sepolia for our testnet deployments. You can get some testnet `ETH` from 
 
 Once you hold `$NATION` tokens, head over to the staking page: https://app-sepolia.nation3.org/lock
 
-| ⚠️ Note that you will need to lock _more than_ 2 `$NATION` to get 2 `$veNATION` (since your `$veNATION` balance decreases over time). |
+| ⚠️ Note that you will need to lock _more than_ 3 `$NATION` to get 3 `$veNATION` (since your `$veNATION` balance decreases over time). |
 | --- |
 
 ### Sepolia Contract Deployments
